@@ -8,13 +8,13 @@
 Summary:	Test::WWW::Mechanize::Catalyst - Test::WWW::Mechanize for Catalyst
 #Summary(pl.UTF-8):	
 Name:		perl-Test-WWW-Mechanize-Catalyst
-Version:	0.45
+Version:	0.56
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Test/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	bb6a345c2f101f417a5473cdd48a8d54
+# Source0-md5:	6057810d7f6f4517928d031cb85d1609
 # generic URL, check or change before uncommenting
 #URL:		http://search.cpan.org/dist/Test-WWW-Mechanize-Catalyst/
 BuildRequires:	perl-devel >= 1:5.8.0
