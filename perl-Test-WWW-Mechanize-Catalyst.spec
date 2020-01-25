@@ -4,7 +4,6 @@
 
 %define	pdir	Test
 %define	pnam	WWW-Mechanize-Catalyst
-%include	/usr/lib/rpm/macros.perl
 Summary:	Test::WWW::Mechanize::Catalyst - Test::WWW::Mechanize for Catalyst
 Name:		perl-Test-WWW-Mechanize-Catalyst
 Version:	0.56
